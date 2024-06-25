@@ -20,7 +20,6 @@
 </div>
 <br/>
 <br/>
-<br/>
 
 **Eu penso que é possível que as pessoas comuns escolham ser extraordinárias. - Elon Musk.**
 
