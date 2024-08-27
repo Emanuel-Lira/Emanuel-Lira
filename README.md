@@ -7,7 +7,7 @@
 )](https://www.linkedin.com/in/emanuel-silvalb/)
 
 
-![Lira GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelsilva0&show_icons=true&theme=midnight-purple)
+![Lira GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuel-Lira&show_icons=true&theme=midnight-purple)
 <br/>
 
 ## Tecnologias que eu utilizo:
