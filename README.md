@@ -13,11 +13,12 @@
 ## Tecnologias que eu utilizo:
 
 <div style="display: inline_block"><br/>
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-<img align ="center" alt"Jmeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat" alt="Apache JMeter Badge">
-![Scrum](https://img.shields.io/badge/Agile-Scrum-blue?logo=scrumalliance&logoColor=white)
 
-![CTFL Certified](https://img.shields.io/badge/CTFL-Certified-red?style=for-the-badge&logo=testing-library)
+
+<img align ="center" alt"CTFL" src="https://img.shields.io/badge/CTFL-Certified-red?style=for-the-badge&logo=testing-library" />
+<img align ="center" alt"AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img align ="center" alt"Jmeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat" />
+<img align ="center" alt"Scrum" src="https://img.shields.io/badge/Agile-Scrum-blue?logo=scrumalliance&logoColor=white" />
 <img align ="center" alt"html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align ="center" alt"python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img align ="center" alt"Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
