@@ -13,8 +13,6 @@
 ## Tecnologias que eu utilizo:
 
 <div style="display: inline_block"><br/>
-
-
 <img align ="center" alt"CTFL" src="https://img.shields.io/badge/CTFL-Certified-red?style=for-the-badge&logo=testing-library" />
 <img align ="center" alt"AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img align ="center" alt"Jmeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat" />
