@@ -13,6 +13,11 @@
 ## Tecnologias que eu utilizo:
 
 <div style="display: inline_block"><br/>
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img align ="center" alt"Jmeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat" alt="Apache JMeter Badge">
+![Scrum](https://img.shields.io/badge/Agile-Scrum-blue?logo=scrumalliance&logoColor=white)
+
+![CTFL Certified](https://img.shields.io/badge/CTFL-Certified-red?style=for-the-badge&logo=testing-library)
 <img align ="center" alt"html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align ="center" alt"python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img align ="center" alt"Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
@@ -21,6 +26,9 @@
 <img align ="center" alt"sql" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img align ="center" alt"" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align ="center" alt"" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img align ="center" alt"K6" src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=fff&style=flat" alt="k6 Badge">
+<img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat" alt="Mocha Badge">
+
 <!-- <img align ="center" alt"" src="" /> -->
 
 </div>
