@@ -4,7 +4,6 @@ Atualmente focado em **QA**, mas gosto de experimentar **backend com Java** em a
 
 ## 📊 Estatísticas GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=Emanuel-Lira&style=for-the-badge&color=8D4B98)
 
 ![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanuel-Lira&show_icons=true&theme=tokyonight&icon_color=8D4B98&title_color=8D4B98&text_color=ffffff&bg_color=000000)
 
