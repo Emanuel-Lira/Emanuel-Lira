@@ -1,32 +1,38 @@
-## Olá mundo! Eu sou Emanuel, um estudante de Análise e Desenvolvimento de Sistemas. 👋
+## Olá mundo! Eu sou Emanuel, um estudante de Análise e Desenvolvimento de Sistemas.  👋
+### 🎯 Resumo
+Atualmente focado em **QA**, mas gosto de experimentar **backend com Java** em alguns projetos pessoais.
 
-### **Contatos:**
+## 📊 Estatísticas GitHub
 
-[![contato](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuell.sl_/)
-[![contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/emanuel-silvalb/)
+![Profile Views](https://komarev.com/ghpvc/?username=Emanuel-Lira&style=for-the-badge&color=8D4B98)
+
+![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emanuel-Lira&show_icons=true&theme=tokyonight&icon_color=8D4B98&title_color=8D4B98&text_color=ffffff&bg_color=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Lira&layout=compact&theme=tokyonight&title_color=8D4B98&text_color=ffffff&bg_color=000000)
 
 
-![Lira GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuel-Lira&show_icons=true&theme=midnight-purple)
-<br/>
+### 📱 **Contatos:**
+[![My Skills](https://skillicons.dev/icons?i=instagram&perline=3&theme)](https://www.instagram.com/emanuell.sl_/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/emanuel-silvalb/)
 
-## Tecnologias que eu utilizo:
 
-<div style="display: inline_block"><br/>
-<img align ="center" alt"CTFL" src="https://img.shields.io/badge/CTFL-Certified-red?style=for-the-badge&logo=testing-library" />
-<img align ="center" alt"AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img align ="center" alt"Jmeter" src="https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat" />
-<img align ="center" alt"K6" src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=fff&style=flat" alt="k6 Badge">
-<img align ="center" alt"Scrum" src="https://img.shields.io/badge/Agile-Scrum-blue?logo=scrumalliance&logoColor=white" />
-<img align ="center" alt"html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align ="center" alt"python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img align ="center" alt"Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> 
-<img align ="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-<img align ="center" alt"sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img align ="center" alt"sql" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-<img align ="center" alt"" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align ="center" alt"" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat" alt="Mocha Badge">
+## 🚀 Tecnologias que eu utilizo:
+
+### 🛠️ Linguagens e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=java,docker,aws,bootstrap,cypress,gherkin,graphql,mysql,postman,figma,python,swift&perline=6&theme=dark)](https://skillicons.dev)
+
+### ✅ Testes, Metodologias e Certificações
+![Mocha](https://img.shields.io/badge/Mocha-541F52?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-541F52?style=for-the-badge&logo=chai&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/JMeter-541F52?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![k6](https://img.shields.io/badge/k6-541F52?style=for-the-badge&logo=k6&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-541F52?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![CTFL](https://img.shields.io/badge/CTFL-541F52?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+
+
+
+
 
 <!-- <img align ="center" alt"" src="" /> -->
 
